@@ -58,9 +58,10 @@ To avoid any accidental charges after you are finished testing:
 3.  Click **Instance State** > **Terminate instance**.
 
 ---
-<img width="1710" height="1112" alt="Screenshot 2026-04-16 at 7 56 53 PM" src="https://github.com/user-attachments/assets/d3a85cbe-78cb-487a-99da-bce3aaef05d4" />
-<img width="3420" height="2224" alt="Screenshot 2026-04-16 at 8 23 55 PM" src="https://github.com/user-attachments/assets/ea37273e-23f9-4593-9b36-390543b048a5" />
-<img width="3420" height="2224" alt="Screenshot 2026-04-16 at 8 29 45 PM" src="https://github.com/user-attachments/assets/b5347da3-af78-46bd-b0de-9c3076293fb7" />
+> <img width="1431" height="787" alt="image" src="https://github.com/user-attachments/assets/cc0463be-094e-4272-9880-5ec962eb0923" />
+> <img width="1436" height="791" alt="image" src="https://github.com/user-attachments/assets/b4e81373-f24a-48d9-9e5d-3a956cf53a30" />
+> <img width="753" height="523" alt="image" src="https://github.com/user-attachments/assets/2bc92a60-1aec-4175-9a00-853206477fbc" />
+
 
 ## Practical 3 : Set up a VPC 
 ## **Part 1: Create the VPC & Subnets**
